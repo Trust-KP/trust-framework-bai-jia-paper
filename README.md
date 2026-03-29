@@ -1,8 +1,11 @@
 # trust-framework-bai-jia-paper
 
 Title: 诸子百家与延续结构：基于历史信号的统一解释框架
+
 Author: Kok Pian Gew
+
 Version: v1.0 (Conceptual Framework Release)
+
 Year: 2026
 
 This paper presents a meta-descriptive structural interpretation
