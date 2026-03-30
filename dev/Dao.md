@@ -101,3 +101,9 @@
 行（行） → operation
 
 → 体系（complete system）
+
+道定其模，象成其构，理设其参，行成其运。
+道 → Model  
+象 → Structure  
+理 → Parameters / Regime  
+行 → Operation
