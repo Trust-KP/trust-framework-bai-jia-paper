@@ -176,3 +176,24 @@ Axiom 4 — Continuation
 An entity exists through time only if its structure is sustained under its conditions.
 
 
+# Possibility
+
+Interpretation → What counts as possible  
+Framework     → Structure of possibility  
+Regime        → Conditions of possibility  
+Operation     → Existence
+
+# Indetermancy
+
+Interpretation → What can be distinguished  
+Framework     → Structure of distinguishability  
+Regime        → Limits of distinction  
+Operation     → Possibility
+
+
+道未分，名以分之，构以成之，度以限之，行以用之。
+
+名定其分，构成其形，度守其界，行成其用。
+
+
+
