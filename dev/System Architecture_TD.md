@@ -131,6 +131,37 @@ The Architecture Describes Itself
 |Regime | control of structure|
 |Realisation | application of structure|
 
+
+释定其义，构成其形，度守其界，行成其用，皆归于体构度续。
+
+INTERPRETATION（释）
+|--|--|
+|Being| what is recognised (categories / entities)|
+|Structure| relationships between meanings|
+|Conditions|rules of interpretation (what counts as valid meaning)|
+|Continuation|stability of meaning across contexts / time|
+
+FRAMEWORK（构）
+|--|--|
+|Being|elements / components defined|
+|Structure|organisation of elements|
+|Conditions|constraints that hold the structure|
+|Continuation|persistence of the structure|
+
+REGIME（度）
+|--|--|
+|Being|entities under control|
+|Structure|control relationships (authority, influence)|
+|Conditions|admissibility / enforcement rules|
+|Continuation|maintenance of constraint over time|
+
+REALISATION（行）
+|--|--|
+|Being|actions / events|
+|Structure|sequence / process|
+|Conditions|execution constraints|
+|Continuation|ongoing flow / unfolding|
+
 Insight:  
 
 The architecture is self‑consistent and self‑describing.
@@ -152,7 +183,7 @@ The Universe is the terminal system — nothing sits above it.
 # TD‑12: Continuation
 
 Continuation (system)
-
+|--|--|
 |Interpretation | what counts as persistence  |
 |Framework     | ordering / structure of continuation  |
 |Regime        | conditions under which continuation holds | 
@@ -161,7 +192,7 @@ Continuation (system)
 # TD‑13: Existence
 
 Existence (system)
-
+|--|--|
 |Interpretation | Being|  
 |Framework     | Structure of Being|  
 |Regime        | Conditions of Being|  
