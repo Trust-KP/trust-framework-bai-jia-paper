@@ -63,7 +63,7 @@ Religion shows the architecture in its symbolic form.
 |Interpretation | Legal philosophy|
 |Framework | Law (codes, statutes)|
 |Regime | Courts / state|
-|Realisation → Enforcement / behaviour|
+|Realisation | Enforcement / behaviour|
 
 Insight:  
 
