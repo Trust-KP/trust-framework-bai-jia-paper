@@ -107,3 +107,8 @@
 象 → Structure  
 理 → Parameters / Regime  
 行 → Operation
+
+看错（道）  
+搭错（象）  
+设错（理）  
+做错（行）
