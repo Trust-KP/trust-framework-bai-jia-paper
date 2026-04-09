@@ -156,12 +156,44 @@ four irreducible observational dimensions — Interpretation, Structure,
 Regime, and Operation — and its emergence follows the six-state
 ontological path from Indeterminacy to Continuation.
 
-Three properties are proposed:
+The theory distinguishes two fundamental layers that must not be
+conflated.
 
-**Sufficiency.** The four dimensions are sufficient to describe any
-system completely. No system examined across physical, biological,
-economic, legal, religious, social, technological, or civilisational
-domains has required a fifth dimension.
+Being (体) refers to the irreducible observational dimensions through
+which any system is described. These dimensions do not change across
+systems or domains. They are not properties of any particular system.
+They are the permanent structure through which human recognition of
+any system becomes possible. Interpretation, Structure, Regime, and
+Operation are Being. They are always present wherever a system exists,
+regardless of what that system is or how it came to exist.
+
+State (态) refers to the conditions through which a system unfolds.
+These are not permanent. They represent the sequence of conditions
+that any system passes through as it comes into existence and
+sustains itself across time. Indeterminacy, Boundary, Distinction,
+Possibility, Existence, and Continuation are State. They describe
+the path, not the observer of the path.
+
+Being observes. State unfolds.
+
+体观之，态行之。
+
+The four dimensions belong to Being. The six states belong to State.
+A complete description of any system requires both: the path through
+which the system came to exist, and the dimensions through which that
+existence can be recognised and described.
+
+Four properties are proposed:
+
+**Sufficiency.** The four dimensions of Being are sufficient to
+describe any system completely. No system examined across physical,
+biological, economic, legal, religious, social, technological, or
+civilisational domains has required a fifth dimension.
+
+**State invariance.** The six states of the ontological path are
+fixed in sequence and cannot be compressed or reordered. Every system
+that exists has passed through this path, whether or not that passage
+was observed. The path belongs to the system, not to the observer.
 
 **Path invariance.** Regardless of which dimension serves as the entry
 point for observation, the six-state sequence governs the underlying
