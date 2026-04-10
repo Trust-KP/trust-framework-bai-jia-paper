@@ -18,12 +18,15 @@ system, or transmitted in any form or by any means without prior
 permission of the author, except for brief quotations used in scholarly
 review or research.
 
-Suggested citation:
+Citation:
 
 Gew, Kok Pian. 2026.
-Theory of Meta System Architecture: Ontology, Distinction, and the
-Structure of Any System.
+Theory of Meta System Architecture:
+Ontology, Distinction, and the Structure of Any System.
+
 Working Paper / Private Publication.
+
+DOI: https://doi.org/10.5281/zenodo.19490313
 
 ---
 
