@@ -9,23 +9,58 @@ Year: 2026
 
 ---
 
+## 论元系统架构
+
+凡论皆有所不能自明于其内。
+信赖延续，延续赖系统，系统赖分。
+层层追问，至不可再深处，此论所记是也。
+
+道未分，名以分之。
+道生一，一生二，二生三，三生万物。
+未定、界、分、可能、存在、延续——
+系统由此而生，非由设计，乃由必然。
+
+既生之后，可以四柱观之：
+释、构、度、行。
+
+道为体，四柱为面。
+分之所名，释也；
+形之所成，构也；
+界之所守，度也；
+用之所出，行也。
+
+四柱为体，六态为态。
+体不变，态展开。
+体观之，态行之。
+
+此为KP猜想。
+非定理，乃约束。
+欲证伪者，举一系统，使四柱不足以述之。
+
+四柱皆具者久，缺柱者亡。
+未记则隐，既记则显。
+
+系统成，而道不增；
+系统毁，而道不减。
+
+---
+
 © 2026 Kok Pian Gew
 
-All rights reserved.
+This work is licensed under Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-No part of this publication may be reproduced, stored in a retrieval
-system, or transmitted in any form or by any means without prior
-permission of the author, except for brief quotations used in scholarly
-review or research.
+You are free to share and adapt this material for non-commercial
+purposes, provided appropriate credit is given.
 
-Citation:
+Commercial use requires explicit written permission from the author.
+
+Suggested citation:
 
 Gew, Kok Pian. 2026.
-Theory of Meta System Architecture:
-Ontology, Distinction, and the Structure of Any System.
-
-Working Paper / Private Publication.
-
+Theory of Meta System Architecture: Ontology, Distinction, and the
+Structure of Any System.
+Working Paper.
 DOI: https://doi.org/10.5281/zenodo.19490313
 
 ---
@@ -45,232 +80,154 @@ DOI: https://doi.org/10.5281/zenodo.19490313
 
 ## Abstract
 
-Every theory, when examined carefully, depends on conditions it cannot
-explain from within itself.
+Every theory rests upon conditions it cannot fully explain from
+within itself. The Trust Framework rested upon continuation.
+Continuation rested upon systems capable of persisting across time.
+Systems rested upon distinction — the moment at which separation
+becomes unavoidable. Pursued to its limit, each layer yields to a
+deeper condition beyond itself, and that condition in turn yields to
+another. This work records the structure revealed at the bottom of
+that descent.
 
-The Trust Framework depended on continuation. Continuation depended on
-a system capable of persisting across time. The system depended on
-distinction becoming unavoidable. Each layer, when pressed, revealed a
-deeper condition that the layer above could not account for on its own.
+The descent follows a single path. Before any system exists, there
+is a condition in which distinction has not yet occurred but in which
+the pressure toward distinction is accumulating. When that pressure
+can no longer be contained, a boundary emerges. From boundary comes
+distinction — the moment at which difference becomes established and
+a system becomes possible. From distinction comes the space of what
+can be, and from that space one possibility is actualised into
+existence. Existence, once achieved, must then be sustained. The
+system continues, or it does not. This sequence — Indeterminacy,
+Boundary, Distinction, Possibility, Existence, Continuation — is
+not a model constructed to describe systems. It is the path that any
+system, in any domain, has already traversed in order to exist at
+all.
 
-This work records what was found at the bottom of that descent.
+Once a system exists, it does not become observable automatically.
+A system may operate for a very long time without being recognised
+as a system. An economy coordinates exchange before accounting
+records it. A scientific law governs phenomena before it is written
+down and taught. Gravity governed planetary motion for billions of
+years before it was named. In each case, the system entered
+existence as a recognisable and describable entity only at the moment
+distinction was made and records began. What is not recorded remains
+hidden. What is recorded becomes visible. The act of observation and
+recording is not merely epistemic — it is the mechanism through
+which a system crosses from operation into ontology.
 
-The Theory of Meta System Architecture proposes that any system, across
-any domain, emerges through a single ontological path:
+Once a system is recognised, it can be described. And when systems
+across vastly different domains are examined — physical, biological,
+economic, legal, religious, social, technological, civilisational —
+the same four dimensions of description appear, always and without
+exception. Every system that can be described has something that
+determines what it means and what counts within it. Every system has
+a form — a way in which its elements are organised and related.
+Every system operates under conditions that define what is permitted
+and what is not. And every system executes — it acts, it moves, it
+produces effects across time. These four dimensions, Interpretation,
+Structure, Regime, and Operation, are not categories imposed upon
+systems from outside. They are what remains when every
+domain-specific detail is set aside and only the irreducible
+structure of description itself is examined. They are Being — the
+permanent dimensions through which any system becomes observable.
+The six-state path, by contrast, is State — the conditions through
+which any system unfolds. Being does not change. State does. Being
+observes. State unfolds.
 
-> Dao → Indeterminacy → Boundary → Distinction → Possibility →
-> Existence → Continuation
+The historical record confirms what the structural analysis
+suggests. Systems in which all four dimensions are present and
+sustained endure across generations and centuries. Systems in which
+one or more dimensions are absent collapse when the individuals who
+carried those missing dimensions are gone. The school of thought
+whose alliances dissolved with its founders had Interpretation and
+Operation but neither Structure nor Regime — no transmissible
+framework, no institutional constraint. The tradition that endured
+for two thousand years had all four: an interpretive canon, a
+structured and transmissible body of knowledge, a regime of conduct,
+and an operational mechanism embedded across generations. The same
+pattern holds across domains. Governing arrangements almost never
+survive across civilisational timescales. What survives is meaning
+and structure. Regimes change. Survival depends on Interpretation
+and Structure.
 
-And that once a system exists, it can be completely described through
-four irreducible observational dimensions:
+This theory was not derived from any prior framework. It was
+discovered through constraint. Each existing framework, when pressed
+to explain the conditions it relied upon, exposed a deeper layer.
+Trust required continuation. Continuation required system. System
+required distinction. Distinction required boundary. At each limit,
+a new condition became visible — not because it was invented, but
+because the internal logic of the layer above made it necessary.
+This process, which might be called vertical primitive discovery,
+suggests that a sufficiently coherent theory can function as an
+instrument for uncovering what lies beneath it. What appears as
+failure to explain is not a flaw. It is a signal pointing downward
+to a deeper layer.
 
-> Interpretation (釋) · Structure (構) · Regime (度) · Operation (行)
+The author arrived at this structure without prior exposure to
+classical system theory, Eastern philosophy, or Western ontology.
+Only after the structure had been identified independently did it
+become apparent that the same four dimensions had been pursued to
+their limits, independently and in isolation, by different
+intellectual traditions across different civilisations over thousands
+of years. One tradition approached the ground of Being itself.
+Another systematised Structure and generation. A third developed
+Interpretation through meaning and relation. A fourth formalised
+Regime through rule and constraint. A fifth operated through
+execution and measurable effect. The traditions did not know of each
+other when they began. The structure recurred regardless. This
+recurrence across independent traditions, combined with the
+historical evidence that systems with all four dimensions endure
+while systems with missing dimensions do not, suggests that what is
+being described here is not a preference or a framework among
+possible frameworks. It is a constraint — a feature of reality that
+any sufficiently developed system of thought eventually encounters,
+regardless of where or when that encounter begins.
 
-These dimensions are not a classification imposed upon systems from
-outside. They are the projections through which human recognition of
-any system becomes possible. A system does not enter existence as a
-system until distinction is made. Gravity governed planetary motion
-for billions of years before it was recognised as a system. The market
-coordinated exchange long before economists named it. The system was
-always operating. It became a system at the moment human interpretation
-made distinction possible.
-
-When all four dimensions are present and aligned, the system is whole.
-This condition is described here as 体 — the state in which Being,
-Structure, Condition, and Continuation are simultaneously satisfied.
-This is the KP Conjecture.
-
----
-
-## On the Method of Discovery
-
-This theory was not constructed deductively from first principles.
-It was discovered vertically.
-
-Each layer of the theory was revealed through the internal tensions of
-the layer above it. When the Trust Framework could not account for why
-cooperation required repeated interaction, continuation emerged as a
-deeper primitive. When continuation could not account for why systems
-persist at all, the ontological path from indeterminacy to existence
-became necessary. When that path could not explain why distinction
-arises in the first place, the structure of boundary and accumulation
-became visible.
-
-This process may be described as vertical primitive discovery. An
-existing framework functions as a structural probe that exposes the
-deeper conditions required for that framework to operate. Internal
-tensions within a theory are not failures. They are the methodological
-signal that a deeper layer exists.
-
-The author arrived at this structure without prior exposure to classical
-system theory, Eastern philosophy, or Western ontology. The subsequent
-discovery that independent traditions — separated by geography, time,
-and millennia — had arrived at convergent structures suggests that what
-is being described here is not a theoretical preference, but a feature
-of reality itself.
-
-In Chinese civilisation, the classical tradition organised knowledge,
-governance, and cultivation through structures that map precisely onto
-the four dimensions proposed here. In Western civilisation, philosophy,
-science, law, and education independently produced the same four-fold
-organisation. The author of the Daodejing wrote:
-
-> 道生一，一生二，二生三，三生万物。
-> Dao gives rise to one. One gives rise to two. Two gives rise to
-> three. Three gives rise to the ten thousand things.
-
-This correspondence was observed after the framework was developed, not
-before. It is presented here not as a derivation but as a convergence —
-one among several that emerged across domains and traditions once the
-structure had been identified independently.
-
----
-
-## Scope of This Document
-
-This theory covers:
-
-- The ontological conditions under which any system comes to exist
-- The six-state path through which system emergence proceeds
-- The four observational dimensions through which any system is
-  described
-- The recursive structure by which systems compose into larger systems
-- The convergence of pure observational paths to irreducible primitives
-- The self-describing property of the theory
-
-This theory does not cover:
-
-- Empirical calibration of specific systems
-- Domain-specific optimisation or implementation
-- The dynamics of trust, cooperation, or institutional design
-
-Those questions are addressed in the Trust Framework, which begins
-where this theory ends.
-
-If Dao is the beginning of system, continuation is the beginning
-of trust.
-
----
-
-## The KP Conjecture
-
-Any system, across any domain, can be completely described through
-four irreducible observational dimensions — Interpretation, Structure,
-Regime, and Operation — and its emergence follows the six-state
-ontological path from Indeterminacy to Continuation.
-
-The theory distinguishes two fundamental layers that must not be
-conflated.
-
-Being (体) refers to the irreducible observational dimensions through
-which any system is described. These dimensions do not change across
-systems or domains. They are not properties of any particular system.
-They are the permanent structure through which human recognition of
-any system becomes possible. Interpretation, Structure, Regime, and
-Operation are Being. They are always present wherever a system exists,
-regardless of what that system is or how it came to exist.
-
-State (态) refers to the conditions through which a system unfolds.
-These are not permanent. They represent the sequence of conditions
-that any system passes through as it comes into existence and
-sustains itself across time. Indeterminacy, Boundary, Distinction,
-Possibility, Existence, and Continuation are State. They describe
-the path, not the observer of the path.
-
-Being observes. State unfolds.
-
-体观之，态行之。
-
-The four dimensions belong to Being. The six states belong to State.
-A complete description of any system requires both: the path through
-which the system came to exist, and the dimensions through which that
-existence can be recognised and described.
-
-Four properties are proposed:
-
-**Sufficiency.** The four dimensions of Being are sufficient to
-describe any system completely. No system examined across physical,
-biological, economic, legal, religious, social, technological, or
-civilisational domains has required a fifth dimension.
-
-**State invariance.** The six states of the ontological path are
-fixed in sequence and cannot be compressed or reordered. Every system
-that exists has passed through this path, whether or not that passage
-was observed. The path belongs to the system, not to the observer.
-
-**Path invariance.** Regardless of which dimension serves as the entry
-point for observation, the six-state sequence governs the underlying
-process of system emergence. Entry determines where observation begins.
-It does not alter the sequence through which the system came to exist.
-
-**Recursive completeness.** Every subsystem is itself a complete
-system, expressible through the same four dimensions and the same
-ontological path. There are no partial systems. Any entity that
-satisfies the conditions of the theory is a whole system.
-
-This conjecture is not a theorem. It is an open challenge. The
-challenge is to produce a system that cannot be described within this
-framework. If such a system exists, the conjecture must be revised.
+This proposition is referred to throughout as the KP Conjecture,
+ following the convention of naming theoretical conjectures after
+their proposer pending formal proof or refutation. The conjecture
+states that any system, across any domain, is fully expressible
+through the six-state ontological path from Indeterminacy to
+Continuation, and through the four irreducible dimensions of
+Interpretation, Structure, Regime, and Operation. Four properties
+follow from this conjecture. The four dimensions are sufficient —
+no examined system has required a fifth. The six-state path is
+invariant — it cannot be compressed or reordered, and it belongs
+to the system rather than to the observer. The entry point for
+observation is free — any of the four dimensions may serve as the
+starting point, and the underlying path remains unchanged regardless.
+And every subsystem is itself a complete system — there are no
+partial systems, only systems that have not yet been fully described.
+This is not a theorem. It is a constraint. To refute it is not to
+argue against it, but to produce a system that cannot be described
+within it.
 
 ---
 
 ## Structure of This Work
 
-**Part 0 — Introduction and Conjecture**
+This work proceeds through six parts, each examining one state in the ontological path through the four observational dimensions.
 
-States the conjecture, introduces the ontological path and the four
-dimensions, and locates the theory within the broader research context.
+Part 0 states the conjecture and introduces the ontological path and the four dimensions. 
 
-**Part 1 — Theory of Boundary**
+Part 1 examines boundary — the conditions under which it emerges from indeterminacy and what it means across each dimension. 
 
-Examines the conditions under which boundary emerges from
-indeterminacy, and what boundary means across the four observational
-dimensions.
+Part 2 examines distinction — how it arises from boundary and why it marks the origin of system. 
 
-**Part 2 — Theory of Distinction**
+Part 3 examines possibility — the space that opens once distinction has occurred. 
 
-Examines how distinction arises from boundary, why distinction is the
-origin of system, and how the four dimensions describe the structure
-of distinction itself.
+Part 4 examines existence — how one possibility is actualised and what existence requires of a system that must now persist or cease. 
 
-**Part 3 — Theory of Possibility**
+Part 5 examines continuation — the conditions under which existence becomes sustained, and how those conditions are interpreted, structured, governed, and operated across the four dimensions.
 
-Examines the state space that opens once distinction has occurred, and
-how possibility is structured, constrained, and entered across the four
-dimensions.
+Part 6 presents the complete picture. When the six-state path has been traversed and all four dimensions are present and aligned, a
+system has emerged. 
 
-**Part 4 — Theory of Existence**
+This final part examines what systemic wholeness means, how the theory itself satisfies its own conditions, and why the architecture is self-describing and self-closing. The theory is complete when its own four dimensions are fully present within itself.
 
-Examines how one possibility is actualised into existence, and what
-existence means for a system that must now either persist or cease.
-
-**Part 5 — Theory of Continuation**
-
-Examines the conditions under which existence becomes continuation, and
-how continuation is interpreted, structured, governed, and operated
-across the four dimensions.
-
-This is the point at which the Theory of Meta System Architecture
-connects to the Trust Framework. Continuation as an ontological
-condition is the foundation upon which cooperation, trust, and
-civilisational persistence are built.
-
-**Part 6 — Theory of System Emergence**
-
-Presents the complete picture. When the six-state path has been
-traversed and all four dimensions are present and aligned, a system
-has emerged. This part examines what it means for a system to be
-whole, how theory itself is a system that must satisfy its own
-conditions, and why the framework is self-describing and self-closing.
-
-The theory is complete when its own four dimensions are fully
-present within itself.
-
----
-
-*End of Abstract*
+If the ground of all systems is what precedes distinction, then continuation is what follows it — and everything between is system.
 
 ---
 
 *Theory of Meta System Architecture | Kok Pian Gew | 2026*
-*Working Paper — All rights reserved*
+*DOI: https://doi.org/10.5281/zenodo.19490313*
