@@ -27,16 +27,16 @@ The four dimensions are defined consistently throughout:
 
 | Dimension | Chinese | Role |
 |---|---|---|
-| Interpretation | 釋 | what the system means and what counts within it |
+| Ontology | 釋 | what the system means and what counts within it |
 | Structure | 構 | how elements are organised and related |
 | Regime | 度 | what is permitted and what constrains the system |
-| Operation | 行 | how the system executes and produces effects |
+| Realisation | 行 | how the system executes and produces effects |
 
 Within each dimension, four internal primitives apply:
 
 | Primitive | Meaning |
 |---|---|
-| Being | what exists within this dimension |
+| Interpretation | what exists within this dimension |
 | Structure | how it is organised within this dimension |
 | Conditions | what is permitted within this dimension |
 | Continuation | whether it persists within this dimension |
@@ -76,7 +76,7 @@ conditions at the Dao layer.
 | Interpretation (釋) | identity of bodies — Earth, Sun |
 | Structure (構) | gravitational law |
 | Regime (度) | mass and distance — admissibility conditions |
-| Operation (行) | orbit — the realised motion |
+| Realisation (行) | orbit — the realised motion |
 
 **Observation:** Even non-living systems express the four dimensions.
 The architecture does not require intentionality or agency.
@@ -92,7 +92,7 @@ The architecture does not require intentionality or agency.
 | Interpretation (釋) | organisms — what is recognised as living |
 | Structure (構) | evolutionary rules |
 | Regime (度) | genetic variation — conditions of admissibility |
-| Operation (行) | survival or extinction |
+| Realisation (行) | survival or extinction |
 
 **Observation:** Biology adds adaptation, but the architecture is
 unchanged. The four dimensions hold regardless of complexity.
@@ -108,7 +108,7 @@ unchanged. The four dimensions hold regardless of complexity.
 | Interpretation (釋) | firms and agents — recognised participants |
 | Structure (構) | market rules |
 | Regime (度) | capital and resources — constraint conditions |
-| Operation (行) | trades and prices |
+| Realisation (行) | trades and prices |
 
 **Observation:** Human systems express the same architecture with
 intentional agents. Intention does not add a fifth dimension.
@@ -124,7 +124,7 @@ intentional agents. Intention does not add a fifth dimension.
 | Interpretation (釋) | worldview — what the religion means |
 | Structure (構) | doctrine and religious law |
 | Regime (度) | clergy and authority |
-| Operation (行) | ritual and practice |
+| Realisation (行) | ritual and practice |
 
 **Observation:** Religion shows the architecture in its symbolic
 form. The four dimensions appear even where the system is primarily
@@ -141,7 +141,7 @@ interpretive.
 | Interpretation (釋) | legal philosophy |
 | Structure (構) | law — codes and statutes |
 | Regime (度) | courts and state |
-| Operation (行) | enforcement and behaviour |
+| Realisation (行) | enforcement and behaviour |
 
 **Observation:** Law is the structural grammar of society. The four
 dimensions map directly onto the foundational elements of any legal
@@ -158,7 +158,7 @@ order.
 | Interpretation (釋) | instinct and perception |
 | Structure (構) | hierarchy and territory |
 | Regime (度) | dominance and control |
-| Operation (行) | behaviour |
+| Realisation (行) | behaviour |
 
 **Observation:** Even non-human societies express the four
 dimensions. The architecture is not a product of human cognition
@@ -175,7 +175,7 @@ alone.
 | Interpretation (釋) | niche recognition |
 | Structure (構) | food webs |
 | Regime (度) | predation and competition |
-| Operation (行) | ecological behaviour |
+| Realisation (行) | ecological behaviour |
 
 **Observation:** Ecosystems express the architecture without central
 authority. The four dimensions emerge from distributed interaction.
@@ -191,7 +191,7 @@ authority. The four dimensions emerge from distributed interaction.
 | Interpretation (釋) | semantics and metadata |
 | Structure (構) | architecture and protocols |
 | Regime (度) | standards and governance |
-| Operation (行) | usage and performance |
+| Realisation (行) | usage and performance |
 
 **Observation:** Technology evolves toward a complete four-dimensional
 system. Early-stage technologies often lack one or more dimensions
@@ -208,7 +208,7 @@ and are correspondingly fragile.
 | Interpretation (釋) | world models |
 | Structure (構) | model architecture |
 | Regime (度) | alignment and oversight |
-| Operation (行) | inference and behaviour |
+| Realisation (行) | inference and behaviour |
 
 **Observation:** AI systems are becoming complete four-dimensional
 systems. The absence of a Regime dimension — alignment — represents
@@ -225,7 +225,7 @@ the primary structural risk in current AI development.
 | Interpretation (釋) | ontology — what exists |
 | Structure (構) | physical laws |
 | Regime (度) | constants and conditions |
-| Operation (行) | cosmic evolution and processes |
+| Realisation (行) | cosmic evolution and processes |
 
 **Observation:** The Universe is the highest realised system. It
 does not sit above Dao but exists within it. The four dimensions
@@ -237,7 +237,7 @@ hold at the largest observable scale.
 
 *From continuation to the ground of all systems.*
 *These entries use Dao vocabulary: 道体 / 道系 / 道制 / 道承*
-*In English: Meta Being / Meta Structure / Meta Regime / Meta Operation*
+*In English: Meta Being / Meta Structure / Meta Regime / Meta Realisation*
 
 ---
 
@@ -250,7 +250,7 @@ hold at the largest observable scale.
 | Meta Being | 道体 | what counts as persistence |
 | Meta Structure | 道系 | ordering and structure of continuation |
 | Meta Regime | 道制 | conditions under which continuation holds |
-| Meta Operation | 道承 | time — the unfolding |
+| Meta Realisation | 道承 | time — the unfolding |
 
 ---
 
@@ -263,7 +263,7 @@ hold at the largest observable scale.
 | Meta Being | 道体 | Being |
 | Meta Structure | 道系 | Structure of Being |
 | Meta Regime | 道制 | Conditions of Being |
-| Meta Operation | 道承 | Continuation |
+| Meta Realisation | 道承 | Continuation |
 
 Four axioms follow:
 
@@ -294,7 +294,7 @@ under its conditions.
 | Meta Being | 道体 | what counts as possible |
 | Meta Structure | 道系 | structure of possibility |
 | Meta Regime | 道制 | conditions of possibility |
-| Meta Operation | 道承 | Existence |
+| Meta Realisation | 道承 | Existence |
 
 ---
 
@@ -307,7 +307,7 @@ under its conditions.
 | Meta Being | 道体 | what can be distinguished |
 | Meta Structure | 道系 | structure of distinguishability |
 | Meta Regime | 道制 | limits of distinction |
-| Meta Operation | 道承 | Possibility |
+| Meta Realisation | 道承 | Possibility |
 
 ---
 
@@ -322,7 +322,7 @@ It is the transition at which distinction becomes possible.
 | Meta Being | 道体 | the onset of distinguishability |
 | Meta Structure | 道系 | the minimal separation — this and that |
 | Meta Regime | 道制 | the limit at which distinction holds |
-| Meta Operation | 道承 | transition into Possibility |
+| Meta Realisation | 道承 | transition into Possibility |
 
 Boundary does not exist independently. It marks the point where
 Indeterminacy gives rise to distinction.
@@ -348,7 +348,6 @@ Existence（存在）
 Continuation（延续）
 ↓
 Time（时间）
-```
 
 > 道止于未分，界起于可分，万物行于延续之中。
 
@@ -365,7 +364,7 @@ Time（时间）
 | Meta Being | 道体 | what the framework recognises — category meaning |
 | Meta Structure | 道系 | how it is organised — structural definition |
 | Meta Regime | 道制 | what is admissible — control of structure |
-| Meta Operation | 道承 | how it executes — application of structure |
+| Meta Continuation | 道承 | how it executes — application of structure |
 
 **Internal primitives of each dimension at the Dao layer:**
 
@@ -396,7 +395,7 @@ Time（时间）
 | Conditions | admissibility and enforcement rules |
 | Continuation | maintenance of constraint over time |
 
-*Meta Operation — 道承*
+*Meta Realisation   — 道承*
 
 | Primitive | Meaning |
 |---|---|
@@ -437,7 +436,7 @@ into a realisation layer. This transition is denoted +1.
 | Interpretation | 釋 | 7 | Representation — 表征 |
 | Structure | 構 | 6 | Entity — 实体 |
 | Regime | 度 | 8 | Continuation — 延续 |
-| Operation | 行 | 9 | Carrier — 人 / executor |
+| Realisation | 行 | 9 | Carrier — 人 / executor |
 
 +1 is not termination. It is the transition from system mechanics
 to realised carriers.
@@ -474,29 +473,29 @@ Realisation is system-dependent:
 | Interpretation (釋) | recognised agent |
 | Structure (構) | node in system |
 | Regime (度) | constrained subject |
-| Operation (行) | executor |
+| Realisation (行) | executor |
 
 Human is not a primitive of all systems. Human is a realisation
 node — the carrier that appears at the +1 boundary of the
-Operation path.
+Realisation path.
 
 ---
 
 ### TD-20: Convergence Properties
 
 **Continuation emerges from Regime:**
-Regime +1 → Continuation. Continuation is not an Operation
+Regime +1 → Continuation. Continuation is not an Realisation
 output. It emerges from the resolution of constraint conditions.
 
-**Operation resolves to carrier:**
-Operation +1 → Human or carrier. Action resolves to the
+**Realisation resolves to carrier:**
+Realisation +1 → Human or carrier. Action resolves to the
 entity that performs it.
 
 **Conditional convergence:**
 
 | Path | Convergence point |
 |---|---|
-| Operation | Carrier — human |
+| Realisation | Carrier — human |
 | Regime | Continuation |
 | Structure | Entity |
 | Interpretation | Representation |
@@ -515,7 +514,7 @@ but not in practice.
 **Cross-pillar integration:**
 Human cannot be located through single-dimension vertical descent
 alone. Human appears at the intersection of cross-pillar
-traversal or at the realisation boundary of the Operation path.
+traversal or at the realisation boundary of the Realisation path.
 
 **Upward aggregation:**
 
@@ -537,7 +536,7 @@ There is no single universal primitive. There are four:
 | Interpretation | 釋 | Representation — 表征 |
 | Structure | 構 | Entity — 实体 |
 | Regime | 度 | Continuation — 延续 |
-| Operation | 行 | Carrier — 执行者 |
+| Realisation | 行 | Carrier — 执行者 |
 
 ---
 
