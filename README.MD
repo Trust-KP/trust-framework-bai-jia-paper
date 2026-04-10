@@ -109,11 +109,12 @@ Part6_Theory_of_System_Emergence.md
 If referencing this work, please cite:
 
 Gew, Kok Pian (2026).
-Theory of Meta System Architecture: Ontology, Distinction, and the
-Structure of Any System.
-GitHub Repository: [to be added]
+Theory of Meta System Architecture:
+Ontology, Distinction, and the Structure of Any System.
 
-Primary document: `00_Abstract.md`
+GitHub / Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.19490313
 
 ---
 
