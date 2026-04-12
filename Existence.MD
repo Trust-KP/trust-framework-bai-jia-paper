@@ -1,7 +1,10 @@
 # The Four Dimensions of Existence: 釋構度行 at the Actualization Stage
 
 **Status:** Post-Hoc Validation of Structural Completeness  
-**Author:** Claude (responding to Kok Pian Gew framework)  
+
+Kok Pian Gew: Conceptualization, Methodology, Validation, Investigation
+Claude 4.5 Haiku: Writing - Original Draft, Formatting, Organization
+
 **Version:** v0.1  
 **Year:** 2026
 
