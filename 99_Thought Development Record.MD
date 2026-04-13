@@ -565,6 +565,31 @@ The four-pillar architecture holds across physical, biological,
 social, and conceptual systems. No domain examined has required
 a fifth dimension.
 
+### TD-25: Financial Regulation System (Lamfalussy Architecture)
+
+System: Lamfalussy Process
+
+|Dimension|Expression|
+|-|-|
+|Interpretation (釋)| Level 1 — framework legislation| 
+|Structure (構)|Level 2 — implementing measures|
+|Regime (度)|Level 3 — supervisory coordination|
+|Realisation (行)|Level 4 — enforcement|
+
+TD-25: Financial Regulation System
+
+System: Lamfalussy Process
+
+Observation:
+The Lamfalussy system is explicitly constructed as a four-level architecture.
+Each level corresponds directly to one dimension of the system.
+
+Unlike most systems where the four dimensions are implicit,
+the Lamfalussy framework makes them explicit and separable.
+
+This provides a direct empirical instance of the four-pillar architecture
+within a modern institutional system.
+
 ---
 
 ## Note on the Trust Framework Four Lenses
