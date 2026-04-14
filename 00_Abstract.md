@@ -55,7 +55,7 @@ purposes, provided appropriate credit is given.
 
 Commercial use requires explicit written permission from the author.
 
-Suggested citation:
+Citation:
 
 Gew, Kok Pian. 2026.
 Theory of Meta System Architecture: Ontology, Distinction, and the
