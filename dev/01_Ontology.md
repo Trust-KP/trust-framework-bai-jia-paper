@@ -1,4 +1,10 @@
-# Chapter 3 — Entering the Ontological Path
+# Chapter 1 — Entering the Ontological Path
+
+For a system to admit an ontological path, a condition of persistence must hold across transformation. Without such a condition, no sequence of states can be treated as belonging to the same system, and the notion of a path collapses into disjoint occurrences. This condition is not itself a state, nor is it expressible within the system’s dimensions of Interpretation, Structure, Regime, or Realisation. It is not observed, but required. We term this condition the primitive. Within this framework, the primitive is the condition of continuation—not as an achieved state, but as the necessity that transformation preserves referability across states, thereby rendering the ontological path admissible.
+
+In this work, the four dimensions are not only objects of analysis but also govern the method of exposition. The Descriptive Framework explains the structure of the system by making its relations visible. Formalisation establishes the interpretation of that structure by defining its terms, invariants, and admissible transformations. Governance dictates the regime under which the interpretation is allowed to operate, preventing drift or illegitimate compression. Realisation then describes the operational form through which the system becomes enacted. The writing therefore mirrors the architecture: Structure is disclosed, Interpretation is fixed, Regime is imposed, and Realisation is executed.
+
+This does not introduce a new method of exposition, but renders explicit the structure that has always underpinned coherent theory. The framework is therefore self-descriptive: it governs both the system and the conditions under which its description remains admissible.
 
 ## Descriptive Framework
 
