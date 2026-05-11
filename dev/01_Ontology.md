@@ -22,10 +22,6 @@ At this point, a necessary condition emerges.
 
 If a system is to traverse from indeterminacy to continuation, there must exist a persistent aspect that allows the system to remain referable across transformations. Without such persistence, each stage would collapse into unrelated fragments, and no path could be established.
 
-This persistent aspect is not itself a state. It does not belong to any single stage. Instead, it underlies the entire path.
-
-This persistent condition is not itself a state, but underlies the entire path, allowing the system to remain referable across transformations.
-
 ## 1.2 Formalisation
 
 Let a system S be expressible through a sequence of ontological transformations:
@@ -59,6 +55,8 @@ Thus:
 - Dimensions define the expression at each state  
 - Primitive ensures continuity of the system across the path  
 
+The primitive is not an identity function, nor a state-based property, but a condition under which state transitions remain admissible.
+
 ## 1.3 Governance
 
 The ontological path imposes a strict constraint on system description.
@@ -74,6 +72,8 @@ Similarly, treating states as interchangeable categories violates the path const
 The primitive must not be confused with any specific state, including Continuation. It is a condition for traversal, not the endpoint of the path.
 
 Failure to maintain distinction between primitive and state leads to collapse of the ontology into circular definition.
+
+The interaction between the ontological path and the four dimensions is developed in subsequent chapters, where each state is examined under these dimensions.
 
 ## 1.4 Realisation
 
@@ -92,6 +92,7 @@ The next chapter begins with the first ontological state: Indeterminacy.
 This is not the beginning of the system, but the point at which its description becomes admissible.
 
 ## Ontology Summary
+
 This does not introduce a new method of exposition, but renders explicit the structure that has always underpinned coherent theory. The framework is therefore self-descriptive: it governs both the system and the conditions under which its description remains admissible.
 
 We therefore define the primitive of any system as the condition of continuation: the requirement that transformation across ontological states preserves referability, such that the system may be treated as a continuous path.
